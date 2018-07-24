@@ -16,5 +16,3 @@ def add_colors(array)
   array.push("green", "blue")
   return array
 end
-
-puts rainbow_colors
